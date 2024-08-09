@@ -1,3 +1,7 @@
+NAME : CHAITANYA P S
+REG. NO : 212222230024
+DATE :
+
 # OS-Linux-commands-Shell-scripting
 Operating systems Lab exercise
 # Linux commands-Shell scripting

@@ -1,4 +1,4 @@
-# OS LINUX COMMANDS SHELL SCRIPTING 
+# EX 01 OS LINUX COMMANDS SHELL SCRIPTING 
 Operating systems Lab exercise
 ## LINUX COMMANDS SHELL SCRIPTING 
 Linux commands-Shell scripting
